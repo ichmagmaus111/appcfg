@@ -1,9 +1,9 @@
-MEQCID9tE4drtF/Ni1z29t/44kb6Gjl9q0v5gGOVfffFwG8TAiAwQSMgrMkFWDxLFEE29OHKbartpUH1NT7niTeIk89zvQ==
+MEUCIGdCfQDQY5A9LyhZsXixJjxdMrEa8hW0n44gBHDc2VevAiEApec1qGvT61vgR6C8T0wAez7rvQb7cWM5lvgfIIxIWBE=
 {
  "fmt": 1,
  "brand": "mint",
- "v": 5,
- "ts": 1791994778,
+ "v": 6,
+ "ts": 1791994830,
  "min_build": 0,
  "latest": {
   "build": 2,
@@ -12,11 +12,11 @@ MEQCID9tE4drtF/Ni1z29t/44kb6Gjl9q0v5gGOVfffFwG8TAiAwQSMgrMkFWDxLFEE29OHKbartpUH1
  },
  "banners": [
   {
-   "id": "off-1-1",
+   "id": "off-1-2",
    "kind": "update",
    "builds": {
     "gte": 1,
-    "lt": 2
+    "lt": 3
    },
    "every": "launch",
    "closable": false,
