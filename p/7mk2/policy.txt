@@ -1,44 +1,14 @@
-MEUCIGdCfQDQY5A9LyhZsXixJjxdMrEa8hW0n44gBHDc2VevAiEApec1qGvT61vgR6C8T0wAez7rvQb7cWM5lvgfIIxIWBE=
+MEUCIHqhvwxHdABZXToKwdiI9jiNRLdZ54Y2/FyUGuQyv3RbAiEAnF1QyIIS0sgeehmecaomLQ7Jy+CU+ybFd44i91dL870=
 {
  "fmt": 1,
  "brand": "mint",
- "v": 6,
- "ts": 1791994830,
+ "v": 7,
+ "ts": 1791995399,
  "min_build": 0,
  "latest": {
   "build": 2,
   "name": "build 2",
   "url": "https://t.me/android_ttmod"
  },
- "banners": [
-  {
-   "id": "off-1-2",
-   "kind": "update",
-   "builds": {
-    "gte": 1,
-    "lt": 3
-   },
-   "every": "launch",
-   "closable": false,
-   "img": "b/466a9ca95124ca7892625ad44b0a00f3b948d24bb239af2f6493ff4855443f26.webp",
-   "sha256": "466a9ca95124ca7892625ad44b0a00f3b948d24bb239af2f6493ff4855443f26",
-   "title": {
-    "ru": "Вышла новая версия MintTok",
-    "en": "A new version of MintTok is out"
-   },
-   "text": {
-    "ru": "Обновите сборку в канале.",
-    "en": "Update the build from the channel."
-   },
-   "button": {
-    "ru": "Обновить сейчас",
-    "en": "Update now"
-   },
-   "close": {
-    "ru": "Позже",
-    "en": "Later"
-   },
-   "url": "https://t.me/android_ttmod"
-  }
- ]
+ "banners": []
 }
