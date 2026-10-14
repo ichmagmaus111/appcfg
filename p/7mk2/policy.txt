@@ -1,9 +1,14 @@
-MEYCIQDmAFcCoWFFPriUEXxU+ksJV98Ji0MNGJY8BBALqh983gIhAIGU+SGhPir6J/2wPUAJv+mMUNkgNWodTy2YWRoALl/X
+MEUCIQCUrTTeAEVr3EotVyCFREe93dnpa51YwtNsTH3VFIW4SQIgI81Snf4ApcO/+zNjQHkadnyn/8Nyzx+kblZ1Lr7DFkM=
 {
  "fmt": 1,
  "brand": "mint",
- "v": 3,
- "ts": 1791971882,
+ "v": 4,
+ "ts": 1791994040,
  "min_build": 0,
+ "latest": {
+  "build": 2,
+  "name": "build 2",
+  "url": "https://t.me/android_ttmod"
+ },
  "banners": []
 }
