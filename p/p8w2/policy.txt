@@ -1,39 +1,9 @@
-MEQCIBfyAx4kFihvRbeRVq4/NC99s3/tpyD9XZ7bIP8S0hA/AiA24xQdkzmI965dPgZztIFXgPbrSgcmPxYlSHbat8cKDQ==
+MEUCIDWo1VXRT3H0cQJF1ZNWoLJF0AbOx0FP17RtqroByEENAiEAlNotBtTXdDj8ynJdY5ZRFhcDnsrE5sNZM3fovPcJDOs=
 {
  "fmt": 1,
  "brand": "black",
- "v": 2,
- "ts": 1792232323,
+ "v": 3,
+ "ts": 1792235656,
  "min_build": 0,
- "banners": [
-  {
-   "id": "off-8-8",
-   "kind": "update",
-   "builds": {
-    "gte": 8,
-    "lt": 9
-   },
-   "every": "launch",
-   "closable": false,
-   "img": "b/3d0931bd0215b573ad6b3602a4c21d703f8ccc6fbc4036d59bcb3fb811062e33.webp",
-   "sha256": "3d0931bd0215b573ad6b3602a4c21d703f8ccc6fbc4036d59bcb3fb811062e33",
-   "title": {
-    "ru": "Вышла новая версия BlackTok",
-    "en": "A new version of BlackTok is out"
-   },
-   "text": {
-    "ru": "Обновите сборку в канале.",
-    "en": "Update the build from the channel."
-   },
-   "button": {
-    "ru": "Обновить сейчас",
-    "en": "Update now"
-   },
-   "close": {
-    "ru": "Позже",
-    "en": "Later"
-   },
-   "url": "https://t.me/ttanmod"
-  }
- ]
+ "banners": []
 }
